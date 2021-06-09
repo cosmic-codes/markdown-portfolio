@@ -1,0 +1,3 @@
+* Pizza 🍕
+* Ice cream 🍨
+* Burger 🍔
